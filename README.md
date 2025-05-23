@@ -64,12 +64,19 @@ L’application intègre un **assistant conversationnel IA** capable de :
 DiseasePrediction-WebApp/
 │
 ├── app.py # Application Flask principale
+
 ├── chatbot_server.py # Chatbot IA
+
 ├── model_predictor.py # Prédiction de maladies
+
 ├── mdel_SVM.py # Entraînement du modèle SVM
+
 ├── static/ # Fichiers CSS et JS
+
 ├── templates/ # Pages HTML
+
 ├── data/ # Fichiers CSV : symptômes, médicaments, etc.
+
 └── .env # Variables d'environnement
 
 ---
