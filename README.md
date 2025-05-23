@@ -30,7 +30,6 @@ Dans de nombreux cas, les individus ressentent des symptômes mais n'ont pas un 
   - Médicaments possibles
   - Régime alimentaire adapté
   - Activités physiques recommandées
-- 📊 **Utilisation de jeux de données médicaux fiables**
 - 🌐 **Interface web simple et accessible**
 
 ---
