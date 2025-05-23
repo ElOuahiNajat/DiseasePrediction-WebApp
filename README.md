@@ -61,7 +61,9 @@ L’application intègre un **assistant conversationnel IA** capable de :
 
 ## 📁 Structure du projet
 
+
 DiseasePrediction-WebApp/
+
 │
 ├── app.py # Application Flask principale
 
