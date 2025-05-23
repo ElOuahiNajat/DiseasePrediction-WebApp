@@ -118,7 +118,7 @@ diets.csv
 
 workout_df.csv
 
-Remarques
+## Remarques
 ⚠️ Ce projet est conçu à des fins éducatives et informatives. Il ne remplace en aucun cas un avis médical professionnel. Pour tout problème de santé, consultez un médecin.
 
 
