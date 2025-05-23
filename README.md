@@ -81,6 +81,11 @@ DiseasePrediction-WebApp/
 └── .env # Variables d'environnement
 
 ---
+##  Architecture de projet
+![disease_prediction_architecture](https://github.com/user-attachments/assets/20c54262-f69c-4aa7-a48e-c113cc0fd1d2)
+
+
+---
 ##  Demo 
 https://youtu.be/YVXTZ06m1Zw
 
